@@ -22,7 +22,7 @@ Excel / Google Sheets workbooks with live formulas. Download, open in Google She
 ![Wave gates](docs/images/rollout-gates.png)
 ![Hard gates](docs/images/hard-gates.png)
 
-## Open to roles
-Senior Staff / Principal TPM and AI transformation leadership. [LinkedIn](https://www.linkedin.com/in/brandonnissl)
+## Contact
+[LinkedIn](https://www.linkedin.com/in/brandonnissl)
 
 MIT License. Sample data is illustrative; not legal or compliance advice.

@@ -63,4 +63,4 @@ For the question every executive asks, "how much is it worth," the impact model 
 | 2021-2023 | Founded Core Infrastructure; saved $1.4M a year (Grafana to Datadog) |
 | 2023-now | Built the TPM function; 450+ microservices to Kubernetes; AI-assisted development for 400+ developers |
 
-I am open to Senior Staff and Principal TPM roles, and to leading AI transformation programs. [Find me on LinkedIn](https://www.linkedin.com/in/brandonnissl).
+[Find me on LinkedIn](https://www.linkedin.com/in/brandonnissl).
